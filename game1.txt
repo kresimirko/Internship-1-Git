@@ -3,4 +3,4 @@ Tamara ima 1 pobjeda 1 poraza!
 
 O X X
 X O .
-O . .
+O . O
